@@ -1,0 +1,8 @@
+﻿TODOs
+=====
+
+'execute http request' func via webclient (copy from other project)
+
+taxonomy and type are not independent: https://intelmq.readthedocs.io/en/latest/dev/data-harmonization.html
+
+save / restore requests to / from file
